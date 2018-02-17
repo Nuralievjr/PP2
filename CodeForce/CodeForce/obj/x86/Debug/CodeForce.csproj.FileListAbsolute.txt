@@ -1,0 +1,5 @@
+/Users/macbook/Projects/CodeForce/CodeForce/obj/x86/Debug/CodeForce.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/CodeForce/CodeForce/bin/Debug/CodeForce.exe
+/Users/macbook/Projects/CodeForce/CodeForce/bin/Debug/CodeForce.pdb
+/Users/macbook/Projects/CodeForce/CodeForce/obj/x86/Debug/CodeForce.exe
+/Users/macbook/Projects/CodeForce/CodeForce/obj/x86/Debug/CodeForce.pdb

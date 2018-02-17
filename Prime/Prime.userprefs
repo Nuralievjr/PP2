@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{D04041FC-AC91-4E8A-9BA6-19193A6454B1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Documents/PP2/Prime.cs">
+    <Files>
+      <File FileName="../../Documents/PP2/Prime.cs" Line="40" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Prime PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

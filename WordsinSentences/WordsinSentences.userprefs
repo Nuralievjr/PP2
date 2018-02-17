@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{9A0178A1-A94F-4C1C-8850-4B3A193EBFA5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WordsinSentences/Program.cs">
+    <Files>
+      <File FileName="../../Documents/PP2/HowManyWordsinSentence.cs" Line="38" Column="1" />
+      <File FileName="WordsinSentences/Program.cs" Line="13" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WordsinSentences PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

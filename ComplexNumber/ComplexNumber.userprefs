@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{E17CE6EF-7482-4139-8F6F-6E7E4857AE6C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Documents/PP2/Complex.cs">
+    <Files>
+      <File FileName="../../Documents/PP2/Complex.cs" Line="47" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ComplexNumber PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

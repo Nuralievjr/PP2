@@ -1,0 +1,5 @@
+/Users/macbook/Projects/DirectoryFileINfos/DirectoryFileINfos/bin/Debug/DirectoryFileINfos.exe
+/Users/macbook/Projects/DirectoryFileINfos/DirectoryFileINfos/bin/Debug/DirectoryFileINfos.pdb
+/Users/macbook/Projects/DirectoryFileINfos/DirectoryFileINfos/obj/x86/Debug/DirectoryFileINfos.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/DirectoryFileINfos/DirectoryFileINfos/obj/x86/Debug/DirectoryFileINfos.exe
+/Users/macbook/Projects/DirectoryFileINfos/DirectoryFileINfos/obj/x86/Debug/DirectoryFileINfos.pdb

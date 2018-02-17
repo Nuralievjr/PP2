@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{26F6230A-60D8-4C50-9469-805498F19B9E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Documents/PP2/SmallestPrimeNumber.cs">
+    <Files>
+      <File FileName="../../Documents/PP2/SmallestPrimeNumber.cs" Line="44" Column="18" />
+      <File FileName="../../Documents/PP2/SmallestPrimeNumber.cs" Line="15" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SmallesPrime PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

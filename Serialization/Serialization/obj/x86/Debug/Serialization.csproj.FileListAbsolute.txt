@@ -1,0 +1,8 @@
+/Users/macbook/Projects/Serialization/Serialization/obj/x86/Debug/Serialization.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/Serialization/Serialization/bin/Debug/Serialization.exe
+/Users/macbook/Projects/Serialization/Serialization/bin/Debug/Serialization.pdb
+/Users/macbook/Projects/Serialization/Serialization/bin/Debug/Platform.dll
+/Users/macbook/Projects/Serialization/Serialization/bin/Debug/Platform.Xml.Serialization.dll
+/Users/macbook/Projects/Serialization/Serialization/obj/x86/Debug/Serialization.csprojResolveAssemblyReference.cache
+/Users/macbook/Projects/Serialization/Serialization/obj/x86/Debug/Serialization.exe
+/Users/macbook/Projects/Serialization/Serialization/obj/x86/Debug/Serialization.pdb

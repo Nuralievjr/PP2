@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{5D010144-1FFF-43FB-A81C-B73BD604B4DD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Documents/PP2/Rectangle.cs">
+    <Files>
+      <File FileName="../../Documents/PP2/Rectangle.cs" Line="34" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Reactangle PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,5 @@
+/Users/macbook/Projects/Ex/Ex/obj/x86/Debug/Ex.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/Ex/Ex/bin/Debug/Ex.exe
+/Users/macbook/Projects/Ex/Ex/bin/Debug/Ex.pdb
+/Users/macbook/Projects/Ex/Ex/obj/x86/Debug/Ex.exe
+/Users/macbook/Projects/Ex/Ex/obj/x86/Debug/Ex.pdb

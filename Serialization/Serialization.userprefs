@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{34000427-FF5D-486B-8C1F-366E431F332F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Serialization/Program.cs">
+    <Files>
+      <File FileName="Serialization/Program.cs" Line="37" Column="51" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Serialization PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

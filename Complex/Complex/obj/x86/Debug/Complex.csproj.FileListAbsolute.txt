@@ -1,0 +1,5 @@
+/Users/macbook/Projects/Complex/Complex/obj/x86/Debug/Complex.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/Complex/Complex/bin/Debug/Complex.exe
+/Users/macbook/Projects/Complex/Complex/bin/Debug/Complex.pdb
+/Users/macbook/Projects/Complex/Complex/obj/x86/Debug/Complex.exe
+/Users/macbook/Projects/Complex/Complex/obj/x86/Debug/Complex.pdb

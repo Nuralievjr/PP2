@@ -1,0 +1,5 @@
+/Users/macbook/Projects/MaximumandMinimum/MaximumandMinimum/bin/Debug/MaximumandMinimum.exe
+/Users/macbook/Projects/MaximumandMinimum/MaximumandMinimum/bin/Debug/MaximumandMinimum.pdb
+/Users/macbook/Projects/MaximumandMinimum/MaximumandMinimum/obj/x86/Debug/MaximumandMinimum.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/MaximumandMinimum/MaximumandMinimum/obj/x86/Debug/MaximumandMinimum.exe
+/Users/macbook/Projects/MaximumandMinimum/MaximumandMinimum/obj/x86/Debug/MaximumandMinimum.pdb

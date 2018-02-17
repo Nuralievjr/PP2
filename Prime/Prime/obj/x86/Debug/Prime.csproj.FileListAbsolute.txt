@@ -1,0 +1,5 @@
+/Users/macbook/Projects/Prime/Prime/bin/Debug/Prime.exe
+/Users/macbook/Projects/Prime/Prime/bin/Debug/Prime.pdb
+/Users/macbook/Projects/Prime/Prime/obj/x86/Debug/Prime.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/Prime/Prime/obj/x86/Debug/Prime.exe
+/Users/macbook/Projects/Prime/Prime/obj/x86/Debug/Prime.pdb

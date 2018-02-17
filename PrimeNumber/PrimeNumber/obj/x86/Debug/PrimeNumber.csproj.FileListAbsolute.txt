@@ -1,0 +1,5 @@
+/Users/macbook/Projects/PrimeNumber/PrimeNumber/bin/Debug/PrimeNumber.exe
+/Users/macbook/Projects/PrimeNumber/PrimeNumber/bin/Debug/PrimeNumber.pdb
+/Users/macbook/Projects/PrimeNumber/PrimeNumber/obj/x86/Debug/PrimeNumber.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/PrimeNumber/PrimeNumber/obj/x86/Debug/PrimeNumber.exe
+/Users/macbook/Projects/PrimeNumber/PrimeNumber/obj/x86/Debug/PrimeNumber.pdb

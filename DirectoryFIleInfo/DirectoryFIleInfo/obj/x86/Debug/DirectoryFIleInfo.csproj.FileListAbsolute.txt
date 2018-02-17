@@ -1,0 +1,5 @@
+/Users/macbook/Projects/DirectoryFIleInfo/DirectoryFIleInfo/bin/Debug/DirectoryFIleInfo.exe
+/Users/macbook/Projects/DirectoryFIleInfo/DirectoryFIleInfo/bin/Debug/DirectoryFIleInfo.pdb
+/Users/macbook/Projects/DirectoryFIleInfo/DirectoryFIleInfo/obj/x86/Debug/DirectoryFIleInfo.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/DirectoryFIleInfo/DirectoryFIleInfo/obj/x86/Debug/DirectoryFIleInfo.exe
+/Users/macbook/Projects/DirectoryFIleInfo/DirectoryFIleInfo/obj/x86/Debug/DirectoryFIleInfo.pdb

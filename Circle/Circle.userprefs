@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{D67EE4E4-643D-4FC6-8D07-A0277884E551}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Circle/Program.cs">
+    <Files>
+      <File FileName="Circle/Program.cs" Line="37" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.Circle PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

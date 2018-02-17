@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{F6810033-C19F-48B1-AF5E-B46478737F84}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Far/Program.cs">
+    <Files>
+      <File FileName="Far/Program.cs" Line="22" Column="48" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

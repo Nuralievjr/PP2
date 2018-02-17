@@ -1,0 +1,5 @@
+/Users/macbook/Projects/WordsinSentences/WordsinSentences/bin/Debug/WordsinSentences.exe
+/Users/macbook/Projects/WordsinSentences/WordsinSentences/bin/Debug/WordsinSentences.pdb
+/Users/macbook/Projects/WordsinSentences/WordsinSentences/obj/x86/Debug/WordsinSentences.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/WordsinSentences/WordsinSentences/obj/x86/Debug/WordsinSentences.exe
+/Users/macbook/Projects/WordsinSentences/WordsinSentences/obj/x86/Debug/WordsinSentences.pdb

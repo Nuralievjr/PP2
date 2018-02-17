@@ -1,0 +1,5 @@
+/Users/macbook/Projects/ComplexNumber/ComplexNumber/bin/Debug/ComplexNumber.exe
+/Users/macbook/Projects/ComplexNumber/ComplexNumber/bin/Debug/ComplexNumber.pdb
+/Users/macbook/Projects/ComplexNumber/ComplexNumber/obj/x86/Debug/ComplexNumber.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/ComplexNumber/ComplexNumber/obj/x86/Debug/ComplexNumber.exe
+/Users/macbook/Projects/ComplexNumber/ComplexNumber/obj/x86/Debug/ComplexNumber.pdb

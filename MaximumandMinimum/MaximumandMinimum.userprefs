@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{0F77CD1C-D2D1-4C91-B673-DED288210A41}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Documents/PP2/MinMax.cs">
+    <Files>
+      <File FileName="../../Documents/PP2/MinMax.cs" Line="23" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MaximumandMinimum PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

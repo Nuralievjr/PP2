@@ -1,0 +1,5 @@
+/Users/macbook/Projects/Circle/Circle/bin/Debug/Circle.exe
+/Users/macbook/Projects/Circle/Circle/bin/Debug/Circle.pdb
+/Users/macbook/Projects/Circle/Circle/obj/x86/Debug/Circle.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/Circle/Circle/obj/x86/Debug/Circle.exe
+/Users/macbook/Projects/Circle/Circle/obj/x86/Debug/Circle.pdb

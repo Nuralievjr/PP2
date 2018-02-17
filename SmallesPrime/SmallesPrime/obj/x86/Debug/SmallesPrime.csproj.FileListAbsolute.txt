@@ -1,0 +1,5 @@
+/Users/macbook/Projects/SmallesPrime/SmallesPrime/obj/x86/Debug/SmallesPrime.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/SmallesPrime/SmallesPrime/bin/Debug/SmallesPrime.exe
+/Users/macbook/Projects/SmallesPrime/SmallesPrime/bin/Debug/SmallesPrime.pdb
+/Users/macbook/Projects/SmallesPrime/SmallesPrime/obj/x86/Debug/SmallesPrime.exe
+/Users/macbook/Projects/SmallesPrime/SmallesPrime/obj/x86/Debug/SmallesPrime.pdb

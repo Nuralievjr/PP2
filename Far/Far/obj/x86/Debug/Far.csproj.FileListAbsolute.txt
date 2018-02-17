@@ -1,0 +1,5 @@
+/Users/macbook/Projects/Far/Far/bin/Debug/Far.exe
+/Users/macbook/Projects/Far/Far/bin/Debug/Far.pdb
+/Users/macbook/Projects/Far/Far/obj/x86/Debug/Far.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/Far/Far/obj/x86/Debug/Far.exe
+/Users/macbook/Projects/Far/Far/obj/x86/Debug/Far.pdb
