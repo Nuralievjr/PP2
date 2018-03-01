@@ -1,0 +1,5 @@
+/Users/macbook/Projects/Snake/Snake/obj/x86/Debug/Snake.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/Snake/Snake/bin/Debug/Snake.exe
+/Users/macbook/Projects/Snake/Snake/bin/Debug/Snake.pdb
+/Users/macbook/Projects/Snake/Snake/obj/x86/Debug/Snake.exe
+/Users/macbook/Projects/Snake/Snake/obj/x86/Debug/Snake.pdb
