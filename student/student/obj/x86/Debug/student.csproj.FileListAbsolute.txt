@@ -1,0 +1,5 @@
+/Users/macbook/Projects/student/student/bin/Debug/student.exe
+/Users/macbook/Projects/student/student/bin/Debug/student.pdb
+/Users/macbook/Projects/student/student/obj/x86/Debug/student.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/student/student/obj/x86/Debug/student.exe
+/Users/macbook/Projects/student/student/obj/x86/Debug/student.pdb

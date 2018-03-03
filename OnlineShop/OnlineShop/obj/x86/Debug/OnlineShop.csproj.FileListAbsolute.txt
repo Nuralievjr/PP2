@@ -1,0 +1,5 @@
+/Users/macbook/Projects/OnlineShop/OnlineShop/bin/Debug/OnlineShop.exe
+/Users/macbook/Projects/OnlineShop/OnlineShop/bin/Debug/OnlineShop.pdb
+/Users/macbook/Projects/OnlineShop/OnlineShop/obj/x86/Debug/OnlineShop.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/OnlineShop/OnlineShop/obj/x86/Debug/OnlineShop.exe
+/Users/macbook/Projects/OnlineShop/OnlineShop/obj/x86/Debug/OnlineShop.pdb

@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{B8E4C0F4-C8FD-4221-8AF2-1B6D3D7FCBB2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OnlineShop/Program.cs">
+    <Files>
+      <File FileName="OnlineShop/Program.cs" Line="25" Column="13" />
+      <File FileName="OnlineShop/Shop.cs" Line="27" Column="14" />
+      <File FileName="OnlineShop/Product.cs" Line="13" Column="15" />
+      <File FileName="OnlineShop/Bucket.cs" Line="10" Column="10" />
+      <File FileName="OnlineShop/CategoruofProducts.cs" Line="32" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.OnlineShop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
